@@ -4,7 +4,7 @@ class Solution {
         if(grid[0][0]==1)
         return -1;
         
-        Queue<int[]> q=new LinkedList<>();
+        Queue<int[]> q=new ArrayDeque<>();
         q.add(new int[] {0,0});
         int dx[]={1,-1,0,0,1,-1,-1,1};
         int dy[]={0,0,-1,1,1,-1,1,-1};
