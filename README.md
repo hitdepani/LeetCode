@@ -24,8 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1288-remove-covered-intervals](https://github.com/hitdepani/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Matrix
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/hitdepani/LeetCode/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
