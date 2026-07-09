@@ -24,20 +24,21 @@ class Solution {
             int cc=arr[2];
             if(bb==n-1 && cc==m-1)
             {
-                res=Math.min(res,aa);
+                
+                return aa;
             } 
+            if(aa>dist[bb][cc])
+            continue;
             for(int dir=0;dir<4;dir++)
             {
                 int xx=bb+dx[dir];
                 int yy=cc+dy[dir];
-                if(xx<0||xx>=n||yy<0||yy>=m)
-                {
-                    continue;
-                }
-                else if(Math.abs(heights[xx][yy]-heights[bb][cc]) < dist[xx][yy])
-                {
-                    pq.add(new int[] {Math.max(aa,Math.abs(heights[xx][yy]-heights[bb][cc])),xx,yy});
-                    dist[xx][yy]=Math.abs(heights[xx][yy]-heights[bb][cc]);
+                if(xx >= 0 && xx < n && yy >= 0 && yy < m) {
+                    int newEffort = Math.max(aa, Math.abs(heights[xx][yy] - heights[bb][cc]));
+                    if (newEffort < dist[xx][yy]) {
+                        dist[xx][yy] = newEffort;
+                        pq.add(new int[]{newEffort, xx, yy});
+                    }
                 }
                 
             }
