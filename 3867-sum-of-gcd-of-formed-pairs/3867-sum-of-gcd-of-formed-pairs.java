@@ -15,14 +15,14 @@ class Solution {
         {
             if(nums[i]>max)
             max=nums[i];
-            pregcd[i]=gcd(max,nums[i]);
+            nums[i]=gcd(max,nums[i]);
         }
-        Arrays.sort(pregcd);
+        Arrays.sort(nums);
         long sum=0;
     
             for(int i=0;i<n/2;i++)
         {
-            sum+=gcd(pregcd[i],pregcd[n-1-i]);
+            sum+=gcd(nums[i],nums[n-1-i]);
         }
         
         
