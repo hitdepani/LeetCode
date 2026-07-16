@@ -1,6 +1,11 @@
 class Solution {
     public static int gcd(int a, int b) {
-        return b == 0 ? Math.abs(a) : gcd(b, a % b);
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a; 
     }
     public long gcdSum(int[] nums) {
         int max=0;
