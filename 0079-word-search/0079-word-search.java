@@ -10,8 +10,8 @@ class Solution {
             {
                 if(board[i][j]==word.charAt(0))
                 {
-                    boolean[][] visited=new boolean[n][m];
-                    dfs(board,i,j,word,0,visited);
+                    //boolean[][] visited=new boolean[n][m];
+                    dfs(board,i,j,word,0);
                     
                 }
                 if(check)
@@ -21,23 +21,26 @@ class Solution {
         return false;
 
     }
-    void dfs(char[][] board,int i,int j,String word,int a,boolean[][] visited)
+    void dfs(char[][] board,int i,int j,String word,int a)
     {
         if(a==word.length())
         {
             check=true;
         }
-        if(i<0||i>=board.length||j<0||j>=board[0].length||visited[i][j])
+        if(i<0||i>=board.length||j<0||j>=board[0].length)
         return;
         
-        if(a<word.length() && board[i][j]==word.charAt(a)&& !visited[i][j])
+        if(a<word.length() && board[i][j]==word.charAt(a))
         {
-            visited[i][j]=true;
-            dfs(board,i+1,j,word,a+1,visited);
-            dfs(board,i,j+1,word,a+1,visited);
-            dfs(board,i-1,j,word,a+1,visited);
-            dfs(board,i,j-1,word,a+1,visited);
-            visited[i][j]=false;
+            char c=board[i][j];
+            board[i][j]='*';
+            //visited[i][j]=true;
+            dfs(board,i+1,j,word,a+1);
+            dfs(board,i,j+1,word,a+1);
+            dfs(board,i-1,j,word,a+1);
+            dfs(board,i,j-1,word,a+1);
+            //visited[i][j]=false;
+            board[i][j]=c;
         }
     }
 }
