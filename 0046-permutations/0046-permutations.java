@@ -1,26 +1,32 @@
 class Solution {
-    List<List<Integer>> list= new ArrayList<>();
-    void sol(List<Integer> arr,List<Integer> li)
-    {
-        if(arr.size()==0)
-        {
-            list.add(new ArrayList<>(li));
+    public List<List<Integer>> permute(int[] nums) {
+
+        List<List<Integer>> list = new ArrayList<>();
+
+        backtrack(list, new ArrayList<>(), nums);
+
+        return list;
+    }
+
+    private void backtrack(List<List<Integer>> list,
+                           List<Integer> tempList,
+                           int[] nums){
+
+        if(tempList.size() == nums.length){
+            list.add(new ArrayList<>(tempList));
             return;
         }
-        for(int i=0;i<arr.size();i++)
-        {
-            int val=arr.get(i);
-            arr.remove(i);
-            li.add(val);
-            sol(arr,li);
-            arr.add(i,val);
-            li.remove(li.size()-1);
+
+        for(int i = 0; i < nums.length; i++){
+
+            if(tempList.contains(nums[i]))
+                continue;
+
+            tempList.add(nums[i]);
+
+            backtrack(list, tempList, nums);
+
+            tempList.remove(tempList.size() - 1);
         }
-    }
-    public List<List<Integer>> permute(int[] nums) {
-        List<Integer> arr = new ArrayList<>(Arrays.stream(nums).boxed().toList());
-        List<Integer> li = new ArrayList<>();
-        sol(arr,li);
-        return list;
     }
 }
