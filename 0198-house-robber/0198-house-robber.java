@@ -4,15 +4,17 @@ class Solution {
         if(nums.length==1)return nums[0];
         int n=nums.length;
         int dp[]= new int[nums.length];
-        dp[0]=nums[0];
-        dp[1]=Math.max(nums[0],nums[1]);
+        int x=nums[0];
+        int y=Math.max(nums[0],nums[1]);
         for(int i=2;i<n;i++)
         {
             
-            int pick=nums[i]+dp[i-2];
-            int nopick=dp[i-1];
-            dp[i]=Math.max(pick,nopick);
+            int pick=nums[i]+x;
+            int nopick=y;
+            int c=Math.max(pick,nopick);
+            x=y;
+            y=c;
         }
-        return dp[n-1];
+        return y;
     }
 }
