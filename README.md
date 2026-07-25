@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hitdepani/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitdepani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/hitdepani/LeetCode/tree/master/0198-house-robber) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/hitdepani/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/hitdepani/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hitdepani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitdepani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/hitdepani/LeetCode/tree/master/0198-house-robber) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hitdepani/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hitdepani/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
