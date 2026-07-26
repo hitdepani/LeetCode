@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hitdepani/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hitdepani/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hitdepani/LeetCode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
