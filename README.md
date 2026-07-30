@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hitdepani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/hitdepani/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/hitdepani/LeetCode/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/hitdepani/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hitdepani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitdepani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hitdepani/LeetCode/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/hitdepani/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hitdepani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hitdepani/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/hitdepani/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hitdepani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hitdepani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitdepani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
