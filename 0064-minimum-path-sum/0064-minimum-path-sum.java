@@ -1,22 +1,25 @@
 class Solution {
+    int sol(int n,int m,int dp[][],int grid[][])
+    {
+        if(n<0&&m<0)
+        return 0;
+        if(dp[n][m]!=0)
+        return dp[n][m];
+        if(n==0&&m==0)
+        return grid[n][m];
+        if(n==0)
+        return dp[n][m]=grid[n][m]+sol(n,m-1,dp,grid);
+        else if(m==0)
+        return dp[n][m]=grid[n][m]+sol(n-1,m,dp,grid);
+        
+        dp[n][m]=grid[n][m]+Math.min(sol(n-1,m,dp,grid),sol(n,m-1,dp,grid));
+        return dp[n][m];
+    }
     public int minPathSum(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
+        int n=grid.length;
+        int m=grid[0].length;
+        int dp[][]= new int[n][m];
         
-        for (int i = 1; i < m; i++) {
-            grid[i][0] += grid[i-1][0];
-        }
-        
-        for (int j = 1; j < n; j++) {
-            grid[0][j] += grid[0][j-1];
-        }
-        
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                grid[i][j] += Math.min(grid[i-1][j], grid[i][j-1]);
-            }
-        }
-        
-        return grid[m-1][n-1];
+        return sol(n-1,m-1,dp,grid);
     }
 }
