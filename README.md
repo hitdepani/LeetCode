@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitdepani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/hitdepani/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hitdepani/LeetCode/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitdepani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/hitdepani/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/hitdepani/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hitdepani/LeetCode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitdepani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitdepani/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hitdepani/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hitdepani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/hitdepani/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hitdepani/LeetCode/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hitdepani/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hitdepani/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -203,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hitdepani/LeetCode/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
