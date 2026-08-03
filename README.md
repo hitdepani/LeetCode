@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hitdepani/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hitdepani/LeetCode/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
+| [0498-diagonal-traverse](https://github.com/hitdepani/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitdepani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/hitdepani/LeetCode/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/hitdepani/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hitdepani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/hitdepani/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/hitdepani/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitdepani/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/hitdepani/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/hitdepani/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitdepani/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
