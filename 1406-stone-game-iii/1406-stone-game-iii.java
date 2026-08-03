@@ -14,7 +14,6 @@ class Solution {
     public String stoneGameIII(int[] stoneValue) {
         int n =stoneValue.length;
         int dp[]= new int[n+1];
-        //Arrays.fill(dp,Integer.MIN_VALUE);
         for(int i=n-1;i>=0;i--)
         {
             int y=0;
@@ -24,12 +23,11 @@ class Solution {
                 y+=stoneValue[j+i];
                 dp[i]=Math.max(dp[i],y-dp[i+j+1]);
             }
-            //dp[i]=max;
+            
         }
-        int x=dp[0];
-        if(x==0)
+        if(dp[0]==0)
         return "Tie";
-        else if(x>0)
+        else if(dp[0]>0)
         return "Alice";
         else
         return "Bob";
