@@ -10,13 +10,11 @@ class Solution {
         return x;
     }
     public int smallestNumber(int n, int t) {
-        while(true)
+        while(pro(n)%t!=0)
         {
-            int x=pro(n);
-            if(x%t==0)
-            return n;
             n++;
         }
+        return n;
         
     }
 }
