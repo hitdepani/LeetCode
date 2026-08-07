@@ -1,18 +1,5 @@
 class Solution {
-    boolean sol(int nums[],int i,int sum,int temp,Boolean dp[][])
-    {
-        if((sum/2)==temp)
-        return true;
-        
-        
-        if(i<0||temp>sum/2)
-        return false;
-        if(dp[i][temp]!=null)
-        return dp[i][temp];
-        boolean take=sol(nums,i-1,sum,temp+nums[i],dp);
-        boolean notake=sol(nums,i-1,sum,temp,dp);
-        return dp[i][temp]=take||notake;
-    }
+    
     public boolean canPartition(int[] nums) {
         int n=nums.length;
         int sum=0;
@@ -22,8 +9,27 @@ class Solution {
             sum+=nums[i];
         }
         if(sum%2==1) return false;
-        Boolean dp[][]= new Boolean [n][sum+1];
-        return sol(nums,n-1,sum,0,dp);
         
+        int target=sum/2;
+        boolean dp[][]= new boolean [n][target+1];
+        for (int i=0;i<n;i++) {
+            dp[i][0]=true;
+        }
+        if(nums[0]<=target)
+        dp[0][nums[0]]=true;
+        for(int i=1;i<n;i++)
+        {
+            for(int j=1;j<=target;j++)
+            {
+                    boolean notake=dp[i-1][j];
+                    boolean take=false;
+                    if(j>=nums[i])
+                    {
+                        take=dp[i-1][j-nums[i]];
+                    }
+                    dp[i][j]=take||notake;
+            }
+        }
+        return dp[n-1][target];
     }
 }
