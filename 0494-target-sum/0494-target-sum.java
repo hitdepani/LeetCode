@@ -6,7 +6,7 @@ class Solution {
         return 1;
         if(i>=nums.length)
         return 0 ;
-        if(dp[i][sum+1000]!=0)
+        if(dp[i][sum+1000]!=-1)
         return dp[i][sum+1000];
         return dp[i][sum+1000]=sol(nums,target,i+1,sum-nums[i],dp)+sol(nums,target,i+1,sum+nums[i],dp);
         
@@ -15,6 +15,9 @@ class Solution {
     public int findTargetSumWays(int[] nums, int target) {
         int n=nums.length;
         int dp[][]= new int[n][3000];
+        for (int[] row : dp) {
+            java.util.Arrays.fill(row, -1);
+        }
         return sol(nums,target,0,0,dp);
     }
 }
