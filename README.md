@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hitdepani/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/hitdepani/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/hitdepani/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/hitdepani/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitdepani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/hitdepani/LeetCode/tree/master/0877-stone-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hitdepani/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/hitdepani/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/hitdepani/LeetCode/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hitdepani/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/hitdepani/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/hitdepani/LeetCode/tree/master/1140-stone-game-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/hitdepani/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/hitdepani/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitdepani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
@@ -277,10 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/hitdepani/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/hitdepani/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/hitdepani/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/hitdepani/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/hitdepani/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
