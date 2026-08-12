@@ -4,7 +4,7 @@ class Solution {
         int n=nums.length;
         int i=0,j=0;
         int max=0;
-        while(i<n&&j<n)
+        for( j=0;j<n;j++)
         {
             map.put(nums[j],map.getOrDefault(nums[j], 0)+1);
             while(map.get(nums[j])>k)
@@ -37,7 +37,7 @@ class Solution {
             //     map.put(nums[j],1);
             // }
             max=Math.max(max,j-i+1);
-            j++;
+           // j++;
             
         }
         return max;
