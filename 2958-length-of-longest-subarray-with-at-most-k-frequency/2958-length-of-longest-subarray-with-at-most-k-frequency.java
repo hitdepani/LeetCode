@@ -6,31 +6,37 @@ class Solution {
         int max=0;
         while(i<n&&j<n)
         {
-            if(map.containsKey(nums[j]))
+            map.put(nums[j],map.getOrDefault(nums[j], 0)+1);
+            while(map.get(nums[j])>k)
             {
-                if(map.getOrDefault(nums[j],0)==k)
-                {
-                    while(nums[i]!=nums[j])
-                    {
-                        if(map.getOrDefault(nums[i],0)>0)
-                            map.put(nums[i],map.get(nums[i])-1);
-                            i++;
+                map.put(nums[i],map.get(nums[i])-1);
+                i++;
+            }
+            // if(map.containsKey(nums[j]))
+            // {
+            //     if(map.getOrDefault(nums[j],0)==k)
+            //     {
+            //         while(nums[i]!=nums[j])
+            //         {
+            //             if(map.getOrDefault(nums[i],0)>0)
                             
-                    }
+            //                 i++;
+                            
+            //         }
                    
-                    if(map.getOrDefault(nums[i], 0)>0)
-                            map.put(nums[i],map.get(nums[i])-1);
-                    i++;
-                    map.put(nums[j],map.get(nums[j])+1);
-                }
-                else
-                map.put(nums[j],map.get(nums[j])+1);
-            }
-            else
-            {
-                map.put(nums[j],1);
-            }
-            max = Math.max(max,j-i+1);
+            //         if(map.getOrDefault(nums[i], 0)>0)
+            //                 map.put(nums[i],map.get(nums[i])-1);
+            //         i++;
+            //         map.put(nums[j],map.get(nums[j])+1);
+            //     }
+            //     else
+            //     map.put(nums[j],map.get(nums[j])+1);
+            // }
+            // else
+            // {
+            //     map.put(nums[j],1);
+            // }
+            max=Math.max(max,j-i+1);
             j++;
             
         }
