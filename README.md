@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitdepani/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitdepani/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-path-with-minimum-effort](https://github.com/hitdepani/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/hitdepani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hitdepani/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitdepani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitdepani/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/hitdepani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitdepani/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitdepani/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitdepani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -317,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hitdepani/LeetCode/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/hitdepani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/hitdepani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
