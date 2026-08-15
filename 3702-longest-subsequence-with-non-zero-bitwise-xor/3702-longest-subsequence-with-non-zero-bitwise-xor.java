@@ -3,11 +3,11 @@ class Solution {
         int x=0;
         int n=nums.length;
         int co=0;
-        for(int i=0;i<n;i++)
+        for(int a:nums)
         {
-            if(nums[i]==0)
+            if(a==0)
             co++;
-            x^=nums[i];
+            x^=a;
         }
         if(co==n)
         return 0;
