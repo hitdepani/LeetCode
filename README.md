@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/hitdepani/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/hitdepani/LeetCode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hitdepani/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/hitdepani/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hitdepani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hitdepani/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitdepani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0020-valid-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/hitdepani/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Counting Sort
 |  |
 | ------- |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hitdepani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/hitdepani/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
