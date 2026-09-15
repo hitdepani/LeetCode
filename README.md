@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/hitdepani/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitdepani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hitdepani/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0835-image-overlap](https://github.com/hitdepani/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/hitdepani/LeetCode/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/hitdepani/LeetCode/tree/master/1140-stone-game-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hitdepani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/hitdepani/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/hitdepani/LeetCode/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/hitdepani/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/hitdepani/LeetCode/tree/master/1463-cherry-pickup-ii) |
