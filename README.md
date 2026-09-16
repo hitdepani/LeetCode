@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/hitdepani/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hitdepani/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/hitdepani/LeetCode/tree/master/1872-stone-game-viii) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitdepani/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hitdepani/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitdepani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitdepani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hitdepani/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitdepani/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/hitdepani/LeetCode/tree/master/0086-partition-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Geometry
 |  |
 | ------- |
