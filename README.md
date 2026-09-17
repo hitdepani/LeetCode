@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/hitdepani/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/hitdepani/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/hitdepani/LeetCode/tree/master/0086-partition-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Geometry
