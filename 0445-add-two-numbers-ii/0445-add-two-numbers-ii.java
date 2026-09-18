@@ -29,15 +29,11 @@ class Solution {
             int x=carry;
             if(!a.isEmpty())
             {
-                
-                x+=a.peek();
-                a.pop();
+                x+=a.pop();
             }
             if(!b.isEmpty())
             {
-                
-                x+=b.peek();
-                b.pop();
+                x+=b.pop();
             }
             
             if(x<10)
