@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/hitdepani/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hitdepani/LeetCode/tree/master/0070-climbing-stairs) |
+| [0445-add-two-numbers-ii](https://github.com/hitdepani/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitdepani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/hitdepani/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0020-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/hitdepani/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/hitdepani/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/hitdepani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/hitdepani/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/hitdepani/LeetCode/tree/master/0086-partition-list) |
+| [0445-add-two-numbers-ii](https://github.com/hitdepani/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/hitdepani/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hitdepani/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
