@@ -10,29 +10,20 @@
  */
 class Solution {
     public ListNode doubleIt(ListNode head) {
-        Stack<Integer> st= new Stack<>();
+        if(head.val>=5)
+        {
+            head=new ListNode(0,head);
+        }
         ListNode temp=head;
         while(temp!=null)
         {
-            st.push(temp.val);
+            temp.val=(temp.val*2)%10;
+            if(temp.next!=null&&temp.next.val>=5)
+            {
+                temp.val++;;
+            }
             temp=temp.next;
         }
-        ListNode ans=null;
-        int c=0;
-        while(!st.isEmpty())
-        {
-            int sum=st.pop()*2+c;
-            c=sum/10;
-            ListNode t=new ListNode(sum%10);
-            t.next=ans;
-            ans=t;
-        }
-        if(c>0)
-        {
-            ListNode t=new ListNode(c);
-            t.next=ans;
-            ans=t;
-        }
-        return ans;
+        return head;
     }
 }
