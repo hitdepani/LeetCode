@@ -9,35 +9,48 @@
  * }
  */
 class Solution {
-    public ListNode removeNodes(ListNode head) {
+    public ListNode rev(ListNode head)
+    {
+        ListNode a=null;
         ListNode temp=head;
-        Stack<Integer> st= new Stack<>();
         while(temp!=null)
         {
-            if(st.isEmpty())
+            ListNode b=temp.next;
+            temp.next=a;
+            a=temp;
+            temp=b;
+        }
+        return a;
+    }
+    public ListNode removeNodes(ListNode head) {
+        ListNode h=rev(head);
+        ListNode temp=h;
+        int max=temp.val;
+        ListNode x=temp;
+        int k=0;
+        while(temp!=null)
+        {
+            if(temp.val<max)
             {
-                st.push(temp.val);
+
             }
             else
             {
-                if(st.peek()>=temp.val)
-                st.push(temp.val);
+                if(k==0)
+                {
+                    
+                    k=1;
+                }
                 else
                 {
-                    while(!st.isEmpty()&&st.peek()<temp.val)
-                    st.pop();
-                    st.push(temp.val);
+                    max=temp.val;
+                    x.next=temp;
+                    x=temp;
                 }
             }
             temp=temp.next;
         }
-        ListNode ans=null;
-        while(!st.isEmpty())
-        {
-            ListNode t=new ListNode(st.pop());
-            t.next=ans;
-            ans=t;
-        }
-        return ans;
+        x.next=null;
+        return rev(h);
     }
 }
