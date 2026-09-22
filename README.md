@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hitdepani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hitdepani/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/hitdepani/LeetCode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/hitdepani/LeetCode/tree/master/0143-reorder-list) |
 | [0481-magical-string](https://github.com/hitdepani/LeetCode/tree/master/0481-magical-string) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hitdepani/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hitdepani/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/hitdepani/LeetCode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/hitdepani/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/hitdepani/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/hitdepani/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/hitdepani/LeetCode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/hitdepani/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Game Theory
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/hitdepani/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/hitdepani/LeetCode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/hitdepani/LeetCode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/hitdepani/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/hitdepani/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
