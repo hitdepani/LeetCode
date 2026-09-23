@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitdepani/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/hitdepani/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/hitdepani/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/hitdepani/LeetCode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hitdepani/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/hitdepani/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hitdepani/LeetCode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/hitdepani/LeetCode/tree/master/1872-stone-game-viii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/hitdepani/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hitdepani/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/hitdepani/LeetCode/tree/master/0275-h-index-ii) |
 | [1631-path-with-minimum-effort](https://github.com/hitdepani/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hitdepani/LeetCode/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/hitdepani/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/hitdepani/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitdepani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitdepani/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitdepani/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitdepani/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hitdepani/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitdepani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hitdepani/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
