@@ -1,22 +1,25 @@
 class Solution {
-    //ArrayList<Integer> list= new ArrayList<>();
-    boolean help(int nums[],int i,int sum,int totalsum,Boolean dp[][])
-    {
-        if(totalsum==sum)return true;
-        if(i>=nums.length||sum>totalsum)
-        {
-            return false;
-        }
-        if(dp[i][sum]!=null) return dp[i][sum];
-        return dp[i][sum]=help(nums,i+1,sum+nums[i],totalsum,dp)| help(nums,i+1,sum,totalsum,dp);
-    }
     public boolean canPartition(int[] nums) {
         int sum=0;
+        int n=nums.length;
         for(int i:nums)
         sum+=i;
         if(sum%2!=0)return false;
         sum/=2;
-        Boolean dp[][]= new Boolean[nums.length+1][sum+1];
-        return help(nums,0,0,sum,dp);
+        boolean dp[][]= new boolean[nums.length+1][sum+1];
+        dp[n][0]=true;
+        for(int i=n-1;i>=0;i--)
+        {
+            for(int j=0;j<=sum;j++)
+            {
+                boolean exclude=dp[i+1][j];
+                boolean include=false;
+                if(j>=nums[i])
+                include=dp[i+1][j-nums[i]];
+                dp[i][j]=include||exclude;
+            }
+            
+        }
+        return dp[0][sum];
     }
 }
