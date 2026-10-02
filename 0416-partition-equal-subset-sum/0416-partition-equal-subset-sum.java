@@ -6,20 +6,13 @@ class Solution {
         sum+=i;
         if(sum%2!=0)return false;
         sum/=2;
-        boolean dp[][]= new boolean[nums.length+1][sum+1];
-        dp[n][0]=true;
-        for(int i=n-1;i>=0;i--)
+        boolean dp[]= new boolean[sum+1];
+        dp[0]=true;
+        for(int i=nums.length-1;i>=0;i--)
         {
-            for(int j=0;j<=sum;j++)
-            {
-                boolean exclude=dp[i+1][j];
-                boolean include=false;
-                if(j>=nums[i])
-                include=dp[i+1][j-nums[i]];
-                dp[i][j]=include||exclude;
-            }
-            
+            for(int j=sum;j>=nums[i];j--)
+            dp[j]=dp[j]||dp[j-nums[i]];
         }
-        return dp[0][sum];
+        return dp[sum];
     }
 }
