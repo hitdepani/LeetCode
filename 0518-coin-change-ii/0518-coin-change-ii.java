@@ -1,25 +1,23 @@
 class Solution {
-    int help(int i,int coins[],int target,int dp[][])
-    {
-        if(target==0)
-        {
-            return 1;
-        }
-        
-        if(target<0||i==coins.length)
-        return 0;
-        if(dp[i][target]!=-1)return dp[i][target];
-       int pick=help(i,coins,target-coins[i],dp);
-       int notpick=help(i+1,coins,target,dp);
-       return dp[i][target]=pick+notpick;
-        
-    }
+    
     public int change(int amount, int[] coins) {
        int dp[][]= new int[coins.length+1][amount+1];
-        for(int i=0;i<=coins.length;i++)
+       int n=coins.length;
+        for (int i = 0; i <= n; i++) 
         {
-            Arrays.fill(dp[i],-1);
+            dp[i][0] = 1;
         }
-        return help(0,coins,amount,dp);
+        for(int i=n-1;i>=0;i--)
+        {
+            for(int j=1;j<=amount;j++)
+            {
+                int pick=0;
+                if(j-coins[i]>=0)
+                pick=dp[i][j-coins[i]];
+                int notpick=dp[i+1][j];
+                dp[i][j]=pick+notpick;
+            }
+        }
+        return dp[0][amount];
     }
 }
