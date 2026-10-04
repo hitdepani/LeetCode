@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/hitdepani/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0835-image-overlap](https://github.com/hitdepani/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/hitdepani/LeetCode/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/hitdepani/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hitdepani/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/hitdepani/LeetCode/tree/master/1140-stone-game-ii) |
