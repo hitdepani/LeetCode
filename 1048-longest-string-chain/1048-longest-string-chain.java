@@ -26,10 +26,11 @@ class Solution {
                     if(dp[i]<(dp[j]+1))
                     {
                         dp[i]=dp[j]+1;
+                        max=Math.max(max,dp[i]);
                     }
                     
                 }
-                max=Math.max(max,dp[i]);
+                
             }
         }
        
