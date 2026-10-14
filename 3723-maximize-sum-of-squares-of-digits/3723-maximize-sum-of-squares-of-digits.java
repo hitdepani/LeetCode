@@ -8,7 +8,8 @@ class Solution {
         s.append('9');
         if(s.length()<num)
         s.append(b);
-        while(s.length()<num)
+        a=num-s.length();
+        for(int i=0;i<a;i++)
         s.append('0');
         return s.toString();
     }
