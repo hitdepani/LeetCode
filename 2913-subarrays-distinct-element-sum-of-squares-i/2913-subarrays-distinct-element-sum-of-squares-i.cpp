@@ -2,12 +2,13 @@ class Solution {
 public:
     int sumCounts(vector<int>& nums) {
         int n=nums.size();
-        int sum=0;
+        int sum=n;
         for(int i=0;i<n;i++)
         {   
             vector<int> temp (101);
-            int distinct=0;
-            for(int j=i;j<n;j++)
+            temp[nums[i]]++;
+            int distinct=1;
+            for(int j=i+1;j<n;j++)
             {
                 if(temp[nums[j]]==0)
                 {
