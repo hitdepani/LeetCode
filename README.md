@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hitdepani/LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/hitdepani/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/hitdepani/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/hitdepani/LeetCode/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/hitdepani/LeetCode/tree/master/0057-insert-interval) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hitdepani/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/hitdepani/LeetCode/tree/master/0275-h-index-ii) |
 | [1631-path-with-minimum-effort](https://github.com/hitdepani/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
