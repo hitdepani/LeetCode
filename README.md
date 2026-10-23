@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hitdepani/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hitdepani/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/hitdepani/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/hitdepani/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hitdepani/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hitdepani/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/hitdepani/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hitdepani/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/hitdepani/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hitdepani/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Shortest Path
 |  |
