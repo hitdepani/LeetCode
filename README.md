@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hitdepani/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/hitdepani/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/hitdepani/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0475-heaters](https://github.com/hitdepani/LeetCode/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/hitdepani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/hitdepani/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/hitdepani/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/hitdepani/LeetCode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitdepani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hitdepani/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1048-longest-string-chain](https://github.com/hitdepani/LeetCode/tree/master/1048-longest-string-chain) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hitdepani/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hitdepani/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/hitdepani/LeetCode/tree/master/0275-h-index-ii) |
+| [0475-heaters](https://github.com/hitdepani/LeetCode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hitdepani/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/hitdepani/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hitdepani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hitdepani/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/hitdepani/LeetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/hitdepani/LeetCode/tree/master/0143-reorder-list) |
+| [0475-heaters](https://github.com/hitdepani/LeetCode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/hitdepani/LeetCode/tree/master/0481-magical-string) |
 | [1048-longest-string-chain](https://github.com/hitdepani/LeetCode/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hitdepani/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
