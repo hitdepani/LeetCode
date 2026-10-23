@@ -11,8 +11,8 @@ bool check(vector<int>& piles,int h,long x)
         return (sum<=h);
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        long long m=piles[0];
-        for(long long i:piles)
+        int m=piles[0];
+        for(int i:piles)
         m=max(m,i);
         long low=1,high=m;
         while(low<=high)
