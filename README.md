@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hitdepani/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hitdepani/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0835-image-overlap](https://github.com/hitdepani/LeetCode/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/hitdepani/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/hitdepani/LeetCode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/hitdepani/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/hitdepani/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hitdepani/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/hitdepani/LeetCode/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hitdepani/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/hitdepani/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hitdepani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/hitdepani/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
