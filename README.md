@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hitdepani/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hitdepani/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hitdepani/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/hitdepani/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hitdepani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/hitdepani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/hitdepani/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/hitdepani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/hitdepani/LeetCode/tree/master/1872-stone-game-viii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/hitdepani/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/hitdepani/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hitdepani/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/hitdepani/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hitdepani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/hitdepani/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/hitdepani/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hitdepani/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/hitdepani/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hitdepani/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitdepani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hitdepani/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
