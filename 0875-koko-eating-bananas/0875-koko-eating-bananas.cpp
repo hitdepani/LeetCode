@@ -1,20 +1,12 @@
 class Solution {
     
 public:
-bool check(vector<int> piles,int h,long x)
+bool check(vector<int>& piles,int h,long x)
     {
         long long sum=0;
         for(int i=0;i<piles.size();i++)
         {
-            if(piles[i]<=x)
-            sum++;
-            else
-            {
-                if(piles[i]%x==0)
-                sum+=(piles[i]/x);
-                else
-                sum+=(piles[i]/x +1);
-            }
+            sum += (piles[i] + x - 1) / x;
         }
         return (sum<=h);
     }
