@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitdepani/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hitdepani/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/hitdepani/LeetCode/tree/master/1872-stone-game-viii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/hitdepani/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hitdepani/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/hitdepani/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hitdepani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/hitdepani/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0946-validate-stack-sequences](https://github.com/hitdepani/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/hitdepani/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/hitdepani/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/hitdepani/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/hitdepani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/hitdepani/LeetCode/tree/master/3174-clear-digits) |
@@ -576,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hitdepani/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/hitdepani/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
