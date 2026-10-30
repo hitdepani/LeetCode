@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hitdepani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hitdepani/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hitdepani/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/hitdepani/LeetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/hitdepani/LeetCode/tree/master/0143-reorder-list) |
 | [0475-heaters](https://github.com/hitdepani/LeetCode/tree/master/0475-heaters) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hitdepani/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/hitdepani/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hitdepani/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/hitdepani/LeetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/hitdepani/LeetCode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/hitdepani/LeetCode/tree/master/0445-add-two-numbers-ii) |
