@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/hitdepani/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hitdepani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hitdepani/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0282-expression-add-operators](https://github.com/hitdepani/LeetCode/tree/master/0282-expression-add-operators) |
 | [0445-add-two-numbers-ii](https://github.com/hitdepani/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hitdepani/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hitdepani/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/hitdepani/LeetCode/tree/master/0282-expression-add-operators) |
 | [0481-magical-string](https://github.com/hitdepani/LeetCode/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/hitdepani/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0856-score-of-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hitdepani/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/hitdepani/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/hitdepani/LeetCode/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/hitdepani/LeetCode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/hitdepani/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitdepani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
