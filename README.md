@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitdepani/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hitdepani/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hitdepani/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/hitdepani/LeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hitdepani/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hitdepani/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitdepani/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hitdepani/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitdepani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/hitdepani/LeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/hitdepani/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hitdepani/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hitdepani/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hitdepani/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hitdepani/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitdepani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/hitdepani/LeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3693-climbing-stairs-ii](https://github.com/hitdepani/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/hitdepani/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/hitdepani/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/hitdepani/LeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hitdepani/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hitdepani/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hitdepani/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hitdepani/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitdepani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/hitdepani/LeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hitdepani/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitdepani/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -615,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/hitdepani/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Bitmask
+|  |
+| ------- |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/hitdepani/LeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 <!---LeetCode Topics End-->
