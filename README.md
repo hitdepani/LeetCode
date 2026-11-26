@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitdepani/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hitdepani/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitdepani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/hitdepani/LeetCode/tree/master/3360-stone-removal-game) |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/hitdepani/LeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/hitdepani/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hitdepani/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/hitdepani/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/hitdepani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/hitdepani/LeetCode/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/hitdepani/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/hitdepani/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitdepani/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3959-check-good-integer](https://github.com/hitdepani/LeetCode/tree/master/3959-check-good-integer) |
